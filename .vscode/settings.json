@@ -1,0 +1,17 @@
+{
+    "json.schemas": [
+
+        {
+            "fileMatch": [
+                "*.cson"
+            ],
+            "url": "https://raw.githubusercontent.com/cstayyab/mve-cson-schemas-feature-vscode/master/test.schema.json"
+        },
+        {
+            "fileMatch": [
+                "*person.json"
+            ],
+            "url": "https://raw.githubusercontent.com/cstayyab/mve-cson-schemas-feature-vscode/master/test.schema.json"
+        }
+    ]
+}
